@@ -1,4 +1,4 @@
-# contribution-is-everything
+# contribution-is-everything.
 Want to contribute? See the steps below.
 
 # Step 1
