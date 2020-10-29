@@ -1,5 +1,5 @@
 # contribution-is-everything
-How to contribute?
+Want to contribute? See the steps below.
 
 # Step 1
 Check out the issues
@@ -13,6 +13,6 @@ Work on that
 # Step 4
 Make a PR
 
-That's all you need to do
+And that's all you need to do
 Happy Contributing :)
 
