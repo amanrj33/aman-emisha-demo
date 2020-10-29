@@ -1,5 +1,5 @@
 # contribution-is-everything
-Open for contribution
+How to contribute?
 
 # Step 1
 Check out the issues
