@@ -11,7 +11,7 @@ Find the issue on which you can work on
 Work on that
 
 # Step 4
-Make a PR
+Make a PR.
 
 And that's all you need to do
 Happy Contributing :)
